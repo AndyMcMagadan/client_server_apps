@@ -54,9 +54,9 @@ def write_to_csv(file_w, f_list):
 
 
 if __name__ == '__main__':
-    file_1 = "lesson_2/info_1.txt"
-    file_2 = "lesson_2/info_2.txt"
-    file_3 = "lesson_2/info_3.txt"
+    file_1 = "info_1.txt"
+    file_2 = "info_2.txt"
+    file_3 = "info_3.txt"
     files_list = [file_1, file_2, file_3]
 
-    write_to_csv('lesson_2/data_write.csv', files_list)
+    write_to_csv('data_write.csv', files_list)
