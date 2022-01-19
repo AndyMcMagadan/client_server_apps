@@ -1,0 +1,32 @@
+{
+    "orders": [
+        {
+            "buyer": "Conor McGregor",
+            "date": "01.01.2022",
+            "item": "mobile_phone",
+            "price": "215.99",
+            "quantity": "5"
+        },
+        {
+            "buyer": "Andy McMagadan",
+            "date": "10.01.2022",
+            "item": "tablet",
+            "price": "775.99",
+            "quantity": "2"
+        },
+        {
+            "buyer": "Conor McGregor",
+            "date": "01.01.2022",
+            "item": "mobile_phone",
+            "price": 215.99,
+            "quantity": 5
+        },
+        {
+            "buyer": "Andy McMagadan",
+            "date": "10.01.2022",
+            "item": "tablet",
+            "price": 775.99,
+            "quantity": 2
+        }
+    ]
+}
